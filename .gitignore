@@ -1,0 +1,19 @@
+# KiCad backup and cache files
+Potentiostat KiCAD Prohject/*.bak
+Potentiostat KiCAD Prohject/*-bak
+Potentiostat KiCAD Prohject/*.kicad_pcb-bak
+Potentiostat KiCAD Prohject/*.sch-bak
+Potentiostat KiCAD Prohject/_autosave-*
+Potentiostat KiCAD Prohject/*-cache.lib
+Potentiostat KiCAD Prohject/*-rescue.lib
+Potentiostat KiCAD Prohject/*-save.pro
+Potentiostat KiCAD Prohject/*-save.kicad_pcb
+Potentiostat KiCAD Prohject/fp-info-cache
+
+# KiCad local settings files
+Potentiostat KiCAD Prohject/*.kicad_prl
+Potentiostat KiCAD Prohject/*-backups/
+Potentiostat KiCAD Prohject/\#auto_saved_files\#
+Potentiostat KiCAD Prohject/#auto_saved_files#
+Potentiostat KiCAD Prohject/.autosave-*
+Potentiostat KiCAD Prohject/_autosave-*
