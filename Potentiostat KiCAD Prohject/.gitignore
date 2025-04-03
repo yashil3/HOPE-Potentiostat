@@ -1,0 +1,22 @@
+# KiCad backup and cache files
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+*-cache.lib
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# KiCad local settings files
+*.kicad_prl
+*-backups/
+\#auto_saved_files\#
+#auto_saved_files#
+.autosave-*
+_autosave-*
+
+# Potentiostat project specific
+Potentiostat KiCAD Prohject-backups/
