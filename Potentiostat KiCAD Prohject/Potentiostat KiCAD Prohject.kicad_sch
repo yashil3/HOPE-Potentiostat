@@ -10250,7 +10250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-SOLO"
+		(property "Footprint" "ESP32:ESP32-S2-SOLO"
 			(at 154.94 137.16 0)
 			(effects
 				(font
