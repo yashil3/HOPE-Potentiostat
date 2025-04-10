@@ -5630,6 +5630,12 @@
 		(uuid "852584d2-e47f-440d-8d21-e3f72626ada4")
 	)
 	(junction
+		(at 219.71 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "881f7a80-3fe2-4e7c-a753-494f48e00435")
+	)
+	(junction
 		(at 391.16 269.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5646,6 +5652,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3644b00-bcaa-43bd-a89c-0ea21269f0fd")
+	)
+	(junction
+		(at 229.87 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a93e3375-0c29-4268-af7f-d47c2bb10095")
 	)
 	(junction
 		(at 408.94 168.91)
@@ -6265,6 +6277,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 69.85) (xy 229.87 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "313eaaa8-7845-49c3-89bb-2fe12ca4430a")
+	)
+	(wire
+		(pts
 			(xy 383.54 300.99) (xy 383.54 307.34)
 		)
 		(stroke
@@ -6705,6 +6727,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 69.85) (xy 229.87 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "747fa297-d083-4aa8-9635-d69d4325c587")
+	)
+	(wire
+		(pts
 			(xy 477.52 163.83) (xy 495.3 163.83)
 		)
 		(stroke
@@ -6832,6 +6864,16 @@
 			(type default)
 		)
 		(uuid "8f53c870-ad00-40a6-9053-97a0f165fb3c")
+	)
+	(wire
+		(pts
+			(xy 220.98 69.85) (xy 219.71 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "901b206c-833d-476f-b910-5d798a6ce770")
 	)
 	(wire
 		(pts
@@ -7335,7 +7377,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 60.96) (xy 229.87 71.12)
+			(xy 229.87 60.96) (xy 229.87 69.85)
 		)
 		(stroke
 			(width 0)
@@ -7662,6 +7704,16 @@
 			(type default)
 		)
 		(uuid "e9093144-762a-48fc-96cf-872ebc560d33")
+	)
+	(wire
+		(pts
+			(xy 219.71 60.96) (xy 219.71 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec0b0e13-6ecd-4733-93ca-8fe9a013c86a")
 	)
 	(wire
 		(pts
@@ -8011,7 +8063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 455.93 288.29 0)
 			(effects
 				(font
@@ -8165,7 +8217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:res2_1-1625885-7_TEC"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 207.01 91.44 0)
 			(effects
 				(font
@@ -8384,7 +8436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 410.21 276.86 0)
 			(effects
 				(font
@@ -8542,7 +8594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 393.7 293.37 0)
 			(effects
 				(font
@@ -9011,7 +9063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 96.012 39.37 90)
 			(effects
 				(font
@@ -9160,7 +9212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 121.6152 35.56 0)
 			(effects
 				(font
@@ -9320,7 +9372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T-SH_NO_CK_KMR2xxG"
 			(at 224.79 55.88 0)
 			(effects
 				(font
@@ -9518,7 +9570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 264.16 160.02 0)
 			(effects
 				(font
@@ -9652,7 +9704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 30.1752 124.46 0)
 			(effects
 				(font
@@ -9719,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 59.69 33.528 90)
 			(effects
 				(font
@@ -10382,7 +10434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 59.69 38.862 90)
 			(effects
 				(font
@@ -10646,7 +10698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.54 271.018 90)
 			(effects
 				(font
@@ -11280,7 +11332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.96 173.99 0)
 			(effects
 				(font
@@ -11493,7 +11545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 392.43 147.32 0)
 			(effects
 				(font
@@ -11692,7 +11744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.96 165.1 0)
 			(effects
 				(font
@@ -11760,7 +11812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 92.71 53.6448 0)
 			(effects
 				(font
@@ -11892,7 +11944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.54 263.398 90)
 			(effects
 				(font
@@ -12292,7 +12344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 134.3152 35.56 0)
 			(effects
 				(font
@@ -12886,7 +12938,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T-SH_NO_CK_KMR2xxG"
 			(at 88.9 40.64 0)
 			(effects
 				(font
@@ -13104,7 +13156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 427.99 293.37 0)
 			(effects
 				(font
@@ -13436,7 +13488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 346.71 288.29 0)
 			(effects
 				(font
@@ -13570,7 +13622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 347.98 171.45 0)
 			(effects
 				(font
@@ -13770,7 +13822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 410.21 292.1 0)
 			(effects
 				(font
@@ -13990,7 +14042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 63.1952 124.46 0)
 			(effects
 				(font
@@ -14211,7 +14263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 392.43 139.7 0)
 			(effects
 				(font
@@ -14340,6 +14392,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 224.79 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df6fa568-dffb-4a6d-91dc-59c2b50eee2c")
+		(property "Reference" "C7"
+			(at 224.79 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ".1uF"
+			(at 224.79 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 228.6 68.8848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 224.79 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f7b5bd3e-ea1d-42da-a90d-236e5adc39ae")
+		)
+		(pin "2"
+			(uuid "89678cdc-c0a3-4052-9b97-f0c504f1b515")
+		)
+		(instances
+			(project "Potentiostat KiCAD Prohject"
+				(path "/8af48e5e-159e-4779-a191-f11ba6d6b813"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 314.96 161.29 90)
 		(unit 1)
@@ -14365,7 +14484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.96 161.29 0)
 			(effects
 				(font
@@ -14629,7 +14748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 250.19 170.18 0)
 			(effects
 				(font
@@ -15300,7 +15419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 410.21 288.29 0)
 			(effects
 				(font
