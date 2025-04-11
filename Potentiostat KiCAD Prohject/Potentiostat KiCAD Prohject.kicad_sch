@@ -10091,7 +10091,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 20.32 397.51 0)
+		(at 160.02 252.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10100,7 +10100,7 @@
 		(fields_autoplaced yes)
 		(uuid "37abdd19-2105-4371-b25e-60e3066d23ea")
 		(property "Reference" "J3"
-			(at 20.955 392.43 0)
+			(at 160.655 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10108,7 +10108,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 20.955 394.97 0)
+			(at 160.655 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10116,7 +10116,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 20.32 397.51 0)
+			(at 160.02 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10125,7 +10125,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 20.32 397.51 0)
+			(at 160.02 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10134,7 +10134,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 20.32 397.51 0)
+			(at 160.02 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10957,7 +10957,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 20.32 388.62 0)
+		(at 160.02 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10966,7 +10966,7 @@
 		(fields_autoplaced yes)
 		(uuid "480ca806-b9fd-4cef-9e56-f404e283fba7")
 		(property "Reference" "J1"
-			(at 20.955 383.54 0)
+			(at 160.655 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10974,7 +10974,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 20.955 386.08 0)
+			(at 160.655 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10982,7 +10982,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 20.32 388.62 0)
+			(at 160.02 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10991,7 +10991,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 20.32 388.62 0)
+			(at 160.02 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11000,7 +11000,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 20.32 388.62 0)
+			(at 160.02 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12536,7 +12536,7 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 25.4 388.62 270)
+		(at 165.1 243.84 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12545,7 +12545,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f324a20-c2a3-4945-9ccb-755d999fe153")
 		(property "Reference" "#PWR029"
-			(at 21.59 388.62 0)
+			(at 161.29 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12554,7 +12554,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 29.21 388.6199 90)
+			(at 168.91 243.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12563,7 +12563,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 388.62 0)
+			(at 165.1 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12572,7 +12572,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 388.62 0)
+			(at 165.1 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12581,7 +12581,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 25.4 388.62 0)
+			(at 165.1 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13596,7 +13596,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 25.4 397.51 90)
+		(at 165.1 252.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13605,7 +13605,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad7761a2-c593-4e98-a61b-6e5a4a074c00")
 		(property "Reference" "#PWR047"
-			(at 31.75 397.51 0)
+			(at 171.45 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13614,7 +13614,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 397.5099 90)
+			(at 168.91 252.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13623,7 +13623,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 397.51 0)
+			(at 165.1 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13632,7 +13632,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 397.51 0)
+			(at 165.1 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13641,7 +13641,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 25.4 397.51 0)
+			(at 165.1 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14547,7 +14547,7 @@
 	)
 	(symbol
 		(lib_id "power:-9V")
-		(at 25.4 400.05 270)
+		(at 165.1 255.27 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14556,7 +14556,7 @@
 		(fields_autoplaced yes)
 		(uuid "cbfb3e97-79aa-4712-bfac-3190798fba76")
 		(property "Reference" "#PWR030"
-			(at 21.59 400.05 0)
+			(at 161.29 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14565,7 +14565,7 @@
 			)
 		)
 		(property "Value" "-9V"
-			(at 29.21 400.0499 90)
+			(at 168.91 255.2699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14574,7 +14574,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 400.05 0)
+			(at 165.1 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14583,7 +14583,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 400.05 0)
+			(at 165.1 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14592,7 +14592,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-9V\""
-			(at 25.4 400.05 0)
+			(at 165.1 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15540,7 +15540,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 25.4 391.16 90)
+		(at 165.1 246.38 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15549,7 +15549,7 @@
 		(fields_autoplaced yes)
 		(uuid "e56533a1-065a-427f-a7e4-9117367d3cb1")
 		(property "Reference" "#PWR046"
-			(at 31.75 391.16 0)
+			(at 171.45 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15558,7 +15558,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 391.1599 90)
+			(at 168.91 246.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15567,7 +15567,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 391.16 0)
+			(at 165.1 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15576,7 +15576,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 391.16 0)
+			(at 165.1 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15585,7 +15585,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 25.4 391.16 0)
+			(at 165.1 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
