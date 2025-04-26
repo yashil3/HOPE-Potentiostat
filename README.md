@@ -1,4 +1,4 @@
-# Potentiostat-HOPE-Final-Project
+# Potentiostat HOPE Final Project
 HOPE Final Project -- Potentiostat for applying cyclic voltammetry to electrolyte
 
 TO-DO LIST:
